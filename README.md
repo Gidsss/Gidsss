@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development, Mobile Development, UI/UX Design**
 
-- 📫 How to reach me **gideonsalangsang0428@gmail.com**, **Gideon Antony Salangsang || Facebook**
+- 📫 How to reach me **gideonsalangsang0428@gmail.com**, [Gideon Antony Salangsang || Facebook](https://www.facebook.com/gids.28/)
 
 
 <br/>
