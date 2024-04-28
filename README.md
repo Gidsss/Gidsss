@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Gideon</h1>
 <br/>
 
-- 🔭 I’m currently working on **PLM Enrollment Module**, **UwU++**, **Project Valdopeña Mobile App**, **PLM Mobile App**
+- 🔭 I’m currently working on **PLM Enrollment Module**, **UwU++**, **Project Valdopeña Mobile App**, **PLM Mobile App**, **Scheduling and Appointment System**
 
 - 🌱 I’m currently learning **Web Development, Mobile Development, UI/UX Design, Game Development**
 
