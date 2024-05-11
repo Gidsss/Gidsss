@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Gideon</h1>
+<h1 align="left">Gideon's Repo</h1>
 <br/>
 
 - 🔭 I’m currently working on **PLM Enrollment Module**, **UwU++**, **Project Valdopeña Mobile App**, **PLM Mobile App**, **Scheduling and Appointment System**
