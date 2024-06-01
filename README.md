@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **gideonsalangsang0428@gmail.com**, **[Gideon Antony Salangsang || Facebook](https://www.facebook.com/gids.28/)**
 
+- 🌐 Check out my web portfolio created with React JS: **[Gideon's Portfolio](https://gids-portfolio.vercel.app/)**
 
 <br/>
 
