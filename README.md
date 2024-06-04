@@ -43,6 +43,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-blue.svg?style=for-the-badge&logo=visual-studio-code)
 
 ### Github Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gidsss&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gidsss&show_icons=true&theme=tokyonight&hide_border=true&locale=en" /></p>
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Gidsss&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### Connect with me:
