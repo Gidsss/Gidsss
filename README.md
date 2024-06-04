@@ -2,11 +2,8 @@
 <br/>
 
 - 🔭 I’m currently working on **PLM Enrollment Module**, **UwU++**, **Project Valdopeña Mobile App**, **PLM Mobile App**, **Scheduling and Appointment System**
-
 - 🌱 I’m currently learning **Web Development, Mobile Development, UI/UX Design, Game Development**
-
 - 📫 How to reach me **gideonsalangsang0428@gmail.com**, **[Gideon Antony Salangsang || Facebook](https://www.facebook.com/gids.28/)**
-
 - 🌐 Check out my web portfolio created with React JS: **[Gideon's Portfolio](https://gids-portfolio.vercel.app/)**
 
 <br/>
