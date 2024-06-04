@@ -45,8 +45,7 @@
 ### Github Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gidsss&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gidsss&show_icons=true&theme=tokyonight&hide_border=true&locale=en" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Gidsss&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=Gidsss&theme=tokyonight&hide_border=true" /></p>
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gideon-antony-salangsang/) 
